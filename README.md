@@ -1,6 +1,7 @@
-## multi-layer-perceptron
-this is a multi layer perceptron implemented in Numpy.  
-it can be used only for classifying problems because it uses cross entropy as loss function.  
+## multi-layer-perceptron classifier
+this is a multi layer perceptron implemented in Numpy from scratch.  
+it can be used only for classifying problems because it uses cross entropy as loss function.
+Activation function is ReLu.
 depth of hidden layer, number of node of hidden layer, learning rate, weight decay rate, whether executing of early stopping and hyper parameter about early stopping can be adjusted.
 
 ### MLP constructor
